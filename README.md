@@ -23,6 +23,7 @@ When the player is in contact with a shot, the player will explode and the game 
 
 ### Score System:
 The score itself is just a paragraph tag that is being incremented each time a invader is hit.
+
 ![chrome_zNTqOtCBoF](https://user-images.githubusercontent.com/35008453/210187608-a780fab3-ba0b-4cf9-b55a-9b5a01d6eccc.gif)
 
 ### Conclusion:
